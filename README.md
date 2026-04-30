@@ -2,7 +2,7 @@
 
 # Expedia Scraper API
 
-Search airports, compare one-way flights, and get real-time fares with full itineraries, cabin tiers, and booking links — all from a single API call. No scraping infra needed. 5,000 free requests/month.
+Search airports, compare one-way flights, and get real-time fares with full itineraries, cabin tiers, and booking links — all from a single API call. No scraping infra needed. 100 free requests/month.
 
 ## Key Features
 
@@ -11,7 +11,7 @@ Search airports, compare one-way flights, and get real-time fares with full itin
 - Get multiple fare tiers per flight (Basic, Economy, Comfort, Premium) with inclusion details
 - Segment-by-segment itineraries with flight numbers, aircraft types, and layover info
 - Direct Expedia booking URLs for each fare option
-- **5,000 requests/month on free tier**
+- **100 requests/month on free tier**
 - Contact us if you need Expedia Hotels, Car Rentals, Packages, or other data in addition to flights. Reach out [here](https://api.whatsapp.com/send?phone=918178804274&text=I%20have%20a%20question%20about%20the%20Expedia%20Scraper%20API.)
 - Example Response:
 ```json
@@ -42,7 +42,7 @@ Search airports, compare one-way flights, and get real-time fares with full itin
 
 Create an account at [omkar.cloud](https://www.omkar.cloud/auth/sign-up?redirect=/api-key) to get your API key.
 
-It takes just 2 minutes to sign up. You get 5,000 free requests every month — more than enough for most users to get their job done without paying a dime.
+It takes just 2 minutes to sign up. You get 100 free requests every month for detailed Expedia data.
 
 This is a well built product, and your search for the best Expedia Scraper API ends right here.
 
@@ -406,10 +406,10 @@ Yes. Every fare option includes a direct `booking_url` to Expedia's booking page
 
 | Plan | Price | Requests/Month |
 |------|-------|----------------|
-| Free | $0 | 5,000 |
-| Starter | $25 | 100,000 |
-| Grow | $75 | 1,000,000 |
-| Scale | $150 | 10,000,000 |
+| Free | $0 | 100 |
+| Starter | $16 | 3,000 |
+| Grow | $48 | 15,000 |
+| Scale | $148 | 75,000 |
 
 ## Questions? We have answers.
 
