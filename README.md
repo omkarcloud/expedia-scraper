@@ -12,7 +12,7 @@ Search airports, compare one-way flights, and get real-time fares with full itin
 - Segment-by-segment itineraries with flight numbers, aircraft types, and layover info
 - Direct Expedia booking URLs for each fare option
 - **100 requests/month on free tier**
-- Contact us if you need Expedia Hotels, Car Rentals, Packages, or other data in addition to flights. Reach out [here](https://api.whatsapp.com/send?phone=918178804274&text=I%20have%20a%20question%20about%20the%20Expedia%20Scraper%20API.)
+- Contact us if you need Expedia Hotels, Car Rentals, Packages, or other data in addition to flights. Reach out [here](https://www.omkar.cloud/l/expedia-scraper-github-whatsapp)
 - Example Response:
 ```json
 {
@@ -415,6 +415,6 @@ Yes. Every fare option includes a direct `booking_url` to Expedia's booking page
 
 Reach out anytime. We will solve your query within 1 working day.
 
-[![Contact Us on WhatsApp about Expedia Scraper](https://raw.githubusercontent.com/omkarcloud/assets/master/images/whatsapp-us.png)](https://api.whatsapp.com/send?phone=918178804274&text=I%20have%20a%20question%20about%20the%20Expedia%20Scraper%20API.)
+[![Contact Us on WhatsApp about Expedia Scraper](https://raw.githubusercontent.com/omkarcloud/assets/master/images/whatsapp-us.png)](https://www.omkar.cloud/l/expedia-scraper-github-whatsapp)
 
-[![Contact Us on Email about Expedia Scraper](https://raw.githubusercontent.com/omkarcloud/assets/master/images/ask-on-email.png)](mailto:happy.to.help@omkar.cloud?subject=Expedia%20Scraper%20API%20Question)
+[![Contact Us on Email about Expedia Scraper](https://raw.githubusercontent.com/omkarcloud/assets/master/images/ask-on-email.png)](https://www.omkar.cloud/l/expedia-scraper-github-email)
